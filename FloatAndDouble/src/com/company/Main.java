@@ -19,7 +19,14 @@ public class Main {
         float myFloatValue = (float) 5.25;
         double myDoubleValue = 5d;
         // double is by default
+        System.out.println(myIntValue);
+        System.out.println(myFloatValue);
+        System.out.println(myDoubleValue);
 
+        double numberOfPounds = 200d;
+        double convertedKilograms = numberOfPounds * 0.45359237d;
+        System.out.println("Converted Kilograms = " + convertedKilograms);
 
+        double pi = 3.1415927d;
     }
 }
