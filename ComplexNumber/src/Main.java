@@ -7,4 +7,5 @@ public class Main {
         System.out.println(one.getReal());
         System.out.println(one.getImaginary());
     }
+
 }
