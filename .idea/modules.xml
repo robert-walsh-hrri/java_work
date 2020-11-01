@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello World/Hello World.iml" filepath="$PROJECT_DIR$/Hello World/Hello World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_work.iml" filepath="$PROJECT_DIR$/.idea/java_work.iml" />
+    </modules>
+  </component>
+</project>
